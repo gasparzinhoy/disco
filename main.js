@@ -1,2 +1,2 @@
-	alert("Bem vindo ao site da discoteca!")
+alert("Bem vindo ao site da discoteca!");
 

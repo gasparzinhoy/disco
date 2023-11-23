@@ -1,4 +1,2 @@
-botao = document.querySelector('button');
-botao.onclick = function(){
-	alert("Você pressionou uma tecla")
-}
+	alert("Bem vindo ao site da discoteca!")
+
